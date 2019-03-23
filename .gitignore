@@ -1,0 +1,11 @@
+*.lock
+log.txt
+target
+build_systems
+dist
+sdist
+.pypirc
+testdata
+upload.bat
+upload_test.bat
+venv
